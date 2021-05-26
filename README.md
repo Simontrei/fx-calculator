@@ -1,1 +1,1 @@
-# fx-calculator
+FX Calculator
